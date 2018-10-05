@@ -2,3 +2,4 @@
 PE
 
 -- [Giusseppe Muñoz Bellido]
+Scrum Master: Carlos Gomez
